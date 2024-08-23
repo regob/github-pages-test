@@ -3,3 +3,11 @@ pie title NETFLIX
          "Time spent looking for movie" : 90
          "Time spent watching it" : 10
 #+end_src
+
+* Let's check some formulas
+
+
+Pythagorean theorem: $a^2 + b^2 = c^2$.
+With round brackets: \(a^2 + b^2 = c^2\)
+With square brackets: \[a^2 + b^2 = c^2\]
+And with double dollar marks: $$a^2 + b^2 = c^2$$.
